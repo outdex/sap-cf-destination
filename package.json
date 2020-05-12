@@ -24,7 +24,7 @@
   "dependencies": {
     "cfenv": "^1.1.0",
     "oauth": "^0.9.15",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "request-promise": "^4.2.2"
   },
   "devDependencies": {
